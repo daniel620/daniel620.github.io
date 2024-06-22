@@ -1,64 +1,40 @@
 ---
 layout: archive
-title: "CV/Resume"
-permalink: /cv/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
 
-Education
-======
+## Education
 * M.S. in Computer Science, Yale University, 2024
 * B.S. in Computer Science, Sichuan University, 2023
 * B.S. in Fiancial Engineering, Sichuan University, 2023
 
-ML & Research Experience
-======
+## ML & Research Experience
 * Research Assistant, Yale University, Fall 2023 - Present
-  * Advisor: Prof. Rex Ying
+  * Advisor: [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/)
   * Research orientation: Graph Foundation Model, Graph Transformer, Information Bottleneck, Trustworthy Deep Learning
 
 * Teaching Assistant, Yale University, Spring 2024
-  * Instructor: Prof. Alex Wong
+  * Instructor: [Prof. Alex Wong](https://vision.cs.yale.edu/members/alex-wong.html)
   * Course: CPSC 381/581, Introduction to Machine Learning
   * Topics: Stochastic Gradient Descent, Kernel Support Vector Machine, Principal Components Analysis, Neural Networks
 
-* Machine Learning Engineer, Meituan, Summer 2023
+* Machine Learning Engineer Intern, [Meituan](https://www.linkedin.com/company/meituan/posts/?feedView=all), Summer 2023
   * Division: Mobike
   * Project: Graph nerual networks for bike station recommendations
     * Curation of large-scale graph dataset from spatio-temporal data
     * Implementation of GNNs; Model deployment and automation
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Engineer Intern, Johns Hopkins University, Summer 2022
+  * Employer: [The Johns Hopkins Center for Bioengineering Innovation and Design (CBID)](https://cbid.bme.jhu.edu)
+  * Project: Wearable device applications for deformity spine patients
+    * Development of iOS and watchOS applications for inertial sensor data collection and synchronization
+    * Implementation of LSTM model for human activity recognition
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+

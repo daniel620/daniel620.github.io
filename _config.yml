@@ -16,6 +16,7 @@ description              : &description "Haolan Zuo's personal academic and prof
 url                      : https://daniel620.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daniel620/daniel620.github.io"
+# My Little Realm
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,11 +26,11 @@ author:
   avatar           : "myprofile.jpeg"
   name             : "Haolan Zuo"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning Engineering, Deep Learning and Computational Finance." 
-  location         : "Earth"
+  bio              : "Choose a job you love, and you will never have to work a day in your life." 
+  location         : "New Haven, CT"
   employer         : "Yale University"
   uri              : # URL
-  # email            : "none@example.org" 
+  # personal email   : "haolan.zuo at gmail [dot] com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
@@ -114,7 +115,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "J65BrcI3GWpgH_uP1rr603TdXswwxbO8rSVHs8CQek4"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
