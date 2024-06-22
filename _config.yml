@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haolan Zuo's personal website"
+title                    : "Haolan Zuo's Little Realm"
 title_separator          : "-"
 name                     : &name "Haolan Zuo"
 description              : &description "Haolan Zuo's personal academic and professional website showcasing experience\
@@ -16,7 +16,6 @@ description              : &description "Haolan Zuo's personal academic and prof
 url                      : https://daniel620.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daniel620/daniel620.github.io"
-# My Little Realm
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -113,7 +112,7 @@ atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
-
+# google-site-verification=J65BrcI3GWpgH_uP1rr603TdXswwxbO8rSVHs8CQek4
 # SEO Related
 google_site_verification : "J65BrcI3GWpgH_uP1rr603TdXswwxbO8rSVHs8CQek4"
 bing_site_verification   :
