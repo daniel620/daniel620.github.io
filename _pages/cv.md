@@ -10,7 +10,10 @@ redirect_from:
 {% include base_path %}
 
 
-<embed src='../files/Haolan Resume Jul 3 2024.pdf' width='100%' height='130%'>
+<!--<embed src='../files/Haolan Resume Jul 3 2024.pdf' width='100%' height='130%'> -->
+<embed src='../files/Haolan Resume Jul 10 2024.pdf' width='100%' height='130%'>
+
+
 <!-- <embed src='http://localhost:4000/files/Haolan Resume Jul 3 2024.pdf' width='100%' height='130%'> -->
 
 <!-- <embed src="http://localhost:4000/files/Haolan Resume Jul 3 2024.pdf" width="600" height="800" type="application/pdf"> -->
