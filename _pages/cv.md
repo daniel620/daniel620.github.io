@@ -11,7 +11,7 @@ redirect_from:
 
 
 <!--<embed src='../files/Haolan Resume Jul 3 2024.pdf' width='100%' height='130%'> -->
-<embed src='../files/Haolan Resume Jul 10 2024.pdf' width='100%' height='130%'>
+<embed src='../files/Haolan Resume online.pdf' width='100%' height='130%'>
 
 
 <!-- <embed src='http://localhost:4000/files/Haolan Resume Jul 3 2024.pdf' width='100%' height='130%'> -->
