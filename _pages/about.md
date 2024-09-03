@@ -12,7 +12,8 @@ Hi, I'm Haolan, a master student at Yale University and currently working as a r
 
 Prior to Yale, I received my bachelor's degrees in Computer Science and Financial Engineering from Sichuan University China, where I did projects and research in computer vision, computational finance.
 
-**I am looking for a full-time job in machine learning, data science, data analyst, data engineer, quantitative finance or related fields.** I am open to opportunities in both industry and academia. 
+
+**I am looking for full-time positions as a machine learning engineer, data scientist, data analyst, data engineer, or in quantitative finance and related fields.** I am open to opportunities in both industry and academia.
 
 Several of my projects are listed in the [Portfolio](/portfolio) section.
 
