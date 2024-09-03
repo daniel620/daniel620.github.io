@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haolan Zuo's Little Realm"
+title                    : "Haolan Zuo's Homepage"
 title_separator          : "-"
 name                     : &name "Haolan Zuo"
 description              : &description "Haolan Zuo's personal academic and professional website showcasing experience\
